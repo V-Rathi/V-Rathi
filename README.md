@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vardan Rathi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-rathi&label=Profile%20views&color=0e75b6&style=flat" alt="v-rathi" /> </p>
 
